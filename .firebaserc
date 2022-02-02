@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "employeecontrol-ef7e3": {
+      "hosting": {
+        "demo": [
+          "employeecontrol-ef7e3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "employeecontrol-ef7e3"
+  }
+}
